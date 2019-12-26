@@ -24,6 +24,10 @@ end
 
 def using_first(array)
 
+  first_element = array.first
+
+  first_element
+
 end
 
 def using_last(array)
