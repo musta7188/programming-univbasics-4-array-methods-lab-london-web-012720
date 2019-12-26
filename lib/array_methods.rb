@@ -4,10 +4,13 @@ def using_include(array, element)
 
   include_element
 
-
 end
 
 def using_sort(array)
+
+  sort_element = array.sort
+
+  sort_element
 
 end
 
