@@ -1,5 +1,10 @@
 def using_include(array, element)
 
+  include_element = array.include(element)
+
+  include_element
+
+
 end
 
 def using_sort(array)
