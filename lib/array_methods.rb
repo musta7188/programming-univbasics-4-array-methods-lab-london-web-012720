@@ -34,10 +34,14 @@ def using_last(array)
 
   last_element = array.last
 
-  last_element 
+  last_element
 
 end
 
 def using_size(array)
+
+  size_array = array.size
+
+  size_array
 
 end
